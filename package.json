@@ -1,11 +1,14 @@
 {
   "name": "mockhs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mock http server",
-  "license": "MIT",
   "author": "milo.gu <364966225@qq.com>",
   "bin": {
     "mockhs": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narco001/mockhs"
   },
   "keywords": [
     "mock",
