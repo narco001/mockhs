@@ -1,0 +1,31 @@
+{
+  "name": "mockhs",
+  "version": "1.0.0",
+  "description": "mock http server",
+  "license": "MIT",
+  "author": "milo.gu <364966225@qq.com>",
+  "bin": {
+    "mockhs": "./index.js"
+  },
+  "keywords": [
+    "mock",
+    "ajax",
+    "server",
+    "data"
+  ],
+  "dependencies": {},
+  "main": "index.js",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "colors": "~1.1.2",
+    "http-proxy": "~1.14.0",
+    "iconv-lite": "~0.2.5",
+    "lodash": "~4.14.2",
+    "mime": "~1.3.4",
+    "mockjs": "~1.0.0",
+    "optimist": "~0.6.1",
+    "request": "~2.74.0",
+    "url": "~0.11.0",
+    "watchr": "~2.6.0"
+  }
+}
