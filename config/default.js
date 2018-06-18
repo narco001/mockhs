@@ -1,5 +1,1 @@
-exports.map = [
-]
-
-exports.before = function () {
-}
+exports.map = []

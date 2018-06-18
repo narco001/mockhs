@@ -1,6 +1,6 @@
 {
   "name": "mockhs",
-  "version": "1.0.4",
+  "version": "1.1.6",
   "description": "mock http server",
   "author": "milo.gu <364966225@qq.com>",
   "bin": {
@@ -16,9 +16,7 @@
     "server",
     "data"
   ],
-  "dependencies": {},
-  "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.1",
     "colors": "~1.1.2",
     "http-proxy": "~1.14.0",
@@ -30,5 +28,6 @@
     "request": "~2.74.0",
     "url": "~0.11.0",
     "watchr": "~2.6.0"
-  }
+  },
+  "main": "index.js"
 }
