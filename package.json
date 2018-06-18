@@ -1,6 +1,6 @@
 {
   "name": "mockhs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "mock http server",
   "author": "milo.gu <364966225@qq.com>",
   "bin": {
