@@ -1,6 +1,6 @@
 {
   "name": "mockhs",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "description": "mock http server",
   "author": "milo.gu <364966225@qq.com>",
   "bin": {
@@ -26,6 +26,7 @@
     "mockjs": "~1.0.0",
     "optimist": "~0.6.1",
     "request": "~2.74.0",
+    "string.prototype.padstart": "^3.0.0",
     "url": "~0.11.0",
     "watchr": "~2.6.0"
   },
